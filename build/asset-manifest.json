@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.69f2ba44.chunk.css",
-    "main.js": "/static/js/main.6ad14493.chunk.js",
-    "main.js.map": "/static/js/main.6ad14493.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.9ff16440.chunk.js": "/static/js/2.9ff16440.chunk.js",
-    "static/js/2.9ff16440.chunk.js.map": "/static/js/2.9ff16440.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.0da555c0c926d95359941862328efa21.js": "/precache-manifest.0da555c0c926d95359941862328efa21.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.69f2ba44.chunk.css.map": "/static/css/main.69f2ba44.chunk.css.map",
-    "static/media/dislike.svg": "/static/media/dislike.b066eb4b.svg",
-    "static/media/like.svg": "/static/media/like.739b1b16.svg",
-    "static/media/logo.svg": "/static/media/logo.b37460d1.svg"
+    "main.css": "/Tindev_FrontEnd/build/static/css/main.69f2ba44.chunk.css",
+    "main.js": "/Tindev_FrontEnd/build/static/js/main.6ad14493.chunk.js",
+    "main.js.map": "/Tindev_FrontEnd/build/static/js/main.6ad14493.chunk.js.map",
+    "runtime~main.js": "/Tindev_FrontEnd/build/static/js/runtime~main.4eec01f9.js",
+    "runtime~main.js.map": "/Tindev_FrontEnd/build/static/js/runtime~main.4eec01f9.js.map",
+    "static/js/2.9ff16440.chunk.js": "/Tindev_FrontEnd/build/static/js/2.9ff16440.chunk.js",
+    "static/js/2.9ff16440.chunk.js.map": "/Tindev_FrontEnd/build/static/js/2.9ff16440.chunk.js.map",
+    "index.html": "/Tindev_FrontEnd/build/index.html",
+    "precache-manifest.f01c6ae1e6772c9e8fa4dd98a8856937.js": "/Tindev_FrontEnd/build/precache-manifest.f01c6ae1e6772c9e8fa4dd98a8856937.js",
+    "service-worker.js": "/Tindev_FrontEnd/build/service-worker.js",
+    "static/css/main.69f2ba44.chunk.css.map": "/Tindev_FrontEnd/build/static/css/main.69f2ba44.chunk.css.map",
+    "static/media/dislike.svg": "/Tindev_FrontEnd/build/static/media/dislike.b066eb4b.svg",
+    "static/media/like.svg": "/Tindev_FrontEnd/build/static/media/like.739b1b16.svg",
+    "static/media/logo.svg": "/Tindev_FrontEnd/build/static/media/logo.b37460d1.svg"
   }
 }
